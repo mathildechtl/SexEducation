@@ -40,8 +40,7 @@ MOLECULES
     .a-buttons--article
     .a-title--h2
     .a-section
-// .m-articles
-    .a-article
+// .m-article
     .a-title--h4
     .a-paragraph--description
     .a-symbols--badge
