@@ -1,0 +1,70 @@
+ATOMES
+.a-input
+    .a-input--selection
+.a-buttons
+    .a-buttons--big
+    .a-buttons--little
+    .a-buttons--article
+.a-paragraph
+    .a-paragraph--subtitle
+    .a-paragraph--description
+.a-symbols
+    .a-symbols--icons
+    .a-symbols--badge
+.a-title
+    .a-title--h1
+    .a-title--h2
+    .a-title--h3
+.a-logo
+.a-article
+.a-section
+
+MOLECULES
+.m-menu
+    .a-symbols--icons
+    .a-title--h3
+.m-recherche
+    .a-input
+    .a-title--h3
+    .a-symbols--icons
+.m-button
+    .a-buttons-big
+    .a-paragraph--subtitle
+.m-welcome
+    .a-title--h1
+    .a-paragraph--subtitle
+.m-selection
+    .a-paragraph--subtitle
+    .a-input--selection
+.m-section
+    .a-buttons--article
+    .a-title--h2
+    .a-section
+.m-article
+    .a-article
+    .a-title--h4
+    .a-paragraph--description
+    .a-symbols--badge
+    .a-buttons--little
+
+
+ORGANISMES
+.o-sidebar
+    .m-menu
+    .a-logo
+.o-header
+    .m-recherche
+    .m-button
+.o-welcome
+    .m-welcome
+    .m-selection
+.o-sectionArticles
+    .m-section
+    .m-article
+
+LAYOUT
+.l-main
+    .o-sidebar
+    .o-header
+    .o-welcome
+    .o-SectionArticles
