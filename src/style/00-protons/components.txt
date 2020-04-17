@@ -20,27 +20,27 @@ ATOMES
 .a-section
 
 MOLECULES
-.m-menu
+// .m-menu
     .a-symbols--icons
     .a-title--h3
-.m-recherche
+// .m-recherche
     .a-input
     .a-title--h3
     .a-symbols--icons
-.m-button
+// .m-button
     .a-buttons-big
     .a-paragraph--subtitle
-.m-welcome
+// .m-welcome
     .a-title--h1
     .a-paragraph--subtitle
-.m-selection
+// .m-selection
     .a-paragraph--subtitle
     .a-input--selection
-.m-section
+// .m-sections
     .a-buttons--article
     .a-title--h2
     .a-section
-.m-article
+// .m-articles
     .a-article
     .a-title--h4
     .a-paragraph--description
