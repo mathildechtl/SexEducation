@@ -1,9 +1,31 @@
 .a-title--h1 {
+  font-size: x-large;
+  font-weight: bold;
 }
 
 .a-title--h2--sujet {
-  color: whitesmoke;
+  color: white;
   text-align: center;
-  text-decoration: bold;
-  font-weight: bold;
+  text-align: center;
+  font-weight: bolder;
+  padding-top: 15px;
+}
+
+.a-title--h2--article {
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+.a-title--h4 {
+  color: #26258f;
+  font-weight: bolder;
+}
+
+.a-title--h3 {
+  margin: 8px;
+}
+
+.a-title--h3--recherche {
+  margin-left: 10px;
+  margin-top: 10px;
 }

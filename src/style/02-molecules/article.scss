@@ -1,0 +1,15 @@
+.m-article {
+  width: 800px;
+  height: 100px;
+  display: flex;
+  border-color: grey;
+  border-style: solid;
+  margin-top: 20px;
+}
+
+.m-article--p {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-top: -10px;
+}
